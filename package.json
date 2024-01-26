@@ -29,7 +29,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "docs": "vite build --config vite.config.docs.ts",
     "build:npm": "vite build",
     "types": "tsc --emitDeclarationOnly",
     "preview": "vite preview"
