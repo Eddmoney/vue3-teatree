@@ -25,7 +25,7 @@ update vue-teatree(https://github.com/sarimabbas/vue-teatree) to vue3.
 ## Install
 
 ```bash
-npm i vue-teatree
+npm i vue3-teatree
 ```
 
 <https://www.npmjs.com/package/vue3-teatree>
@@ -35,7 +35,7 @@ npm i vue-teatree
 1. Import your components:
 
 ```ts
-import { Teatree, NodeType, NodeName, NodeToggle } from "vue-teatree";
+import { Teatree, NodeType, NodeName, NodeToggle } from "vue3-teatree";
 ```
 
 - `Teatree` is the main component you will pass your data to (below).
