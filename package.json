@@ -1,9 +1,9 @@
 {
   "name": "vue3-teatree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "license": "MIT",
-  "homepage": "https://github.com/bqweapons/vue3-teatreeree#readme",
+  "homepage": "https://github.com/bqweapons/vue3-teatree#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/bqweapons/vue3-teatree.git"
