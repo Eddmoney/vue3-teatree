@@ -30,6 +30,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:npm": "vite build",
     "types": "tsc --emitDeclarationOnly",
     "preview": "vite preview"
   },
