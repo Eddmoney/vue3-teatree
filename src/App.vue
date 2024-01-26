@@ -67,8 +67,7 @@ const data: NodeType = ref([
         data-size="large"
         data-show-count="true"
         aria-label="Star sarimabbas/vue-teatree on GitHub"
-        >Star</a
-      >
+        >Star</a>
     </div>
 
     <div class="sidebar">
