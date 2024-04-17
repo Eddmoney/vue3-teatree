@@ -251,4 +251,9 @@ const hideTreeLeaves = (rootNode: NodeType) => {
     rootNode.children.forEach((child) => hideTreeLeaves(child));
   }
 };
-```
+```# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x8b6f0ce6f2973430997c7733Af839381385c7fd0'
+quorum: 1
